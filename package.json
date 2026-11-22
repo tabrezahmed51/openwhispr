@@ -102,9 +102,9 @@
     "@types/react-dom": "^19.1.2",
     "@vitejs/plugin-react": "^6.0.1",
     "autoprefixer": "^10.5.0",
-    "concurrently": "^10.0.3",
+    "concurrently": "^10.0.7",
     "cross-env": "^10.0.0",
-    "electron": "^41.2.0",
+    "electron": "^42.11.16",
     "electron-builder": "^26.4.0",
     "eslint": "^10.7.0",
     "eslint-plugin-react-hooks": "^7.1.1",
@@ -117,7 +117,7 @@
     "tsx": "^4.23.1",
     "typescript": "^6.0.2",
     "typescript-eslint": "^8.58.1",
-    "vite": "^8.1.4"
+    "vite": "^8.3.8"
   },
   "dependencies": {
     "@ai-sdk/amazon-bedrock": "^4.0.93",
@@ -146,7 +146,7 @@
     "@radix-ui/react-slot": "^1.2.3",
     "@radix-ui/react-tabs": "^1.1.12",
     "@tanstack/react-virtual": "^3.13.2",
-    "@tiptap/core": "3.30.4",
+    "@tiptap/core": "3.30.5",
     "@tiptap/extension-mention": "3.30.4",
     "@tiptap/extension-placeholder": "3.30.4",
     "@tiptap/extension-task-item": "3.30.4",
@@ -155,7 +155,7 @@
     "@tiptap/starter-kit": "3.30.4",
     "@tiptap/suggestion": "3.30.4",
     "ai": "^6.0.116",
-    "better-auth": "1.6.27",
+    "better-auth": "1.7.27",
     "better-sqlite3": "12.9.0",
     "canvas-confetti": "^1.9.4",
     "class-variance-authority": "^0.7.1",
@@ -188,7 +188,7 @@
     "zustand": "^5.0.11"
   },
   "overrides": {
-    "adm-zip": "^0.6.0",
+    "adm-zip": "^0.6.1",
     "@tiptap/extension-blockquote": "3.30.4",
     "@tiptap/extension-bold": "3.30.4",
     "@tiptap/extension-bubble-menu": "3.30.4",
